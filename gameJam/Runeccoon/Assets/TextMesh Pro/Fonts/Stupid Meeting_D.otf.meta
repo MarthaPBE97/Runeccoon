@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e69f726011f052e45b2cccf433fecc61
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Stupid Meeting
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9371b5d1a4ae07544b47b33a91792066, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
